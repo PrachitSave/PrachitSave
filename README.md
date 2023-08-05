@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Digital Marketing**
 
-- 🌱 I’m currently learning **Digital Marketing, Python Programming & Data Science**
+- 🌱 I’m currently learning **Digital Marketing, Python Programming,Data Science and Cybersecurity**
 
 - 📫 How to reach me **prachitsave9@gmail.com**
 
