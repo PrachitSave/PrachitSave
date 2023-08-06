@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachitsave" alt="prachitsave" /></a> </p>
 
-- 🔭 I’m currently working on **Digital Marketing and Cybersecurity**
+- 🔭 I’m currently working on **Digital Marketing,Cybersecurity and Arduino Uno**
 
-- 🌱 I’m currently learning **Digital Marketing, Python Programming,Data Science and Cybersecurity**
+- 🌱 I’m currently learning **Digital Marketing, Python Programming,Data Science,Cybersecurity and Arduino Uno**
 
 - 📫 How to reach me **prachitsave9@gmail.com**
 
