@@ -9,7 +9,16 @@
 
 - 🔭 I’m currently working on **Digital Marketing,Cybersecurity,Arduino Uno,Node MCU & Data Analytics**
 
-- 🌱 I’m currently learning **Arduino Uno,Node MCU,Data Analytics,PowerBI,Tableau,SQL,Digital Marketing, Python Programming,Data Science & Cybersecurity**
+- 🌱 I’m currently learning **Arduino Uno,
+Node MCU,
+Data Analytics,
+PowerBI,
+Tableau,
+SQL,
+Digital Marketing, 
+Python Programming,
+Data Science & 
+Cybersecurity**
 
 - 📫 How to reach me **prachitsave9@gmail.com**
 
